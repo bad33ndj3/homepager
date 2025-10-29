@@ -1,0 +1,6 @@
+version: 3
+tasks:
+  run:
+    desc: "This task runs the main application logic."
+    cmds:
+      - go run main.go
